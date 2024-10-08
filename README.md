@@ -1,3 +1,3 @@
 # delta-demo
-author Debayan Dutta 
-github tutorial
+author Debayan Dutta <br/>
+github tutorial.
